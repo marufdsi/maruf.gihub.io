@@ -1,5 +1,5 @@
-## Md Maruf Hossain
-# Ph.D. student at UNC Charlotte
+# Md Maruf Hossain
+## Ph.D. student at UNC Charlotte
 
 I do research on high performance graph algorithms and vector architectures.
 All my works expanded to shared and distributed system.
