@@ -1,8 +1,9 @@
 ## Md Maruf Hossain
+# Ph.D. student at UNC Charlotte
 
-You can use the [editor on GitHub](https://github.com/marufdsi/maruf.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I do research on high performance graph algorithms and vector architectures.
+All my works expanded to shared and distributed system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
